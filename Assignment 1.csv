@@ -1,0 +1,351 @@
+"Number Of Flights",model,name,dest
+1,A320-232,"JetBlue Airways",ABQ
+1,EMB-145LR,"ExpressJet Airlines Inc.",ALB
+5,717-200,"AirTran Airways Corporation",ATL
+7,717-200,"Delta Air Lines Inc.",ATL
+1,737-732,"Delta Air Lines Inc.",ATL
+3,737-832,"Delta Air Lines Inc.",ATL
+1,757-231,"Delta Air Lines Inc.",ATL
+1,767-3P6,"Delta Air Lines Inc.",ATL
+1,A320-212,"Delta Air Lines Inc.",ATL
+13,MD-88,"Delta Air Lines Inc.",ATL
+3,NULL,"Envoy Air",ATL
+1,EMB-145LR,"ExpressJet Airlines Inc.",ATL
+2,EMB-145XR,"ExpressJet Airlines Inc.",ATL
+1,737-7BD,"Southwest Airlines Co.",ATL
+1,NULL,"American Airlines Inc.",AUS
+1,737-832,"Delta Air Lines Inc.",AUS
+2,A320-232,"JetBlue Airways",AUS
+1,737-7H4,"Southwest Airlines Co.",AUS
+0,NULL,"United Air Lines Inc.",AUS
+1,EMB-145XR,"ExpressJet Airlines Inc.",AVL
+2,CL-600-2C10,"ExpressJet Airlines Inc.",BGR
+2,CL-600-2D24,"Endeavor Air Inc.",BNA
+4,NULL,"Envoy Air",BNA
+1,CL-600-2D24,"ExpressJet Airlines Inc.",BNA
+2,EMB-145LR,"ExpressJet Airlines Inc.",BNA
+1,EMB-145XR,"ExpressJet Airlines Inc.",BNA
+1,737-7BX,"Southwest Airlines Co.",BNA
+3,737-7H4,"Southwest Airlines Co.",BNA
+3,NULL,"American Airlines Inc.",BOS
+1,MD-88,"Delta Air Lines Inc.",BOS
+3,CL-600-2D24,"Endeavor Air Inc.",BOS
+10,"ERJ 190-100 IGW","JetBlue Airways",BOS
+3,737-824,"United Air Lines Inc.",BOS
+1,737-924ER,"United Air Lines Inc.",BOS
+2,A319-131,"United Air Lines Inc.",BOS
+1,A320-232,"United Air Lines Inc.",BOS
+2,A320-232,"JetBlue Airways",BQN
+1,737-824,"United Air Lines Inc.",BQN
+2,CL-600-2C10,"ExpressJet Airlines Inc.",BTV
+1,EMB-145LR,"ExpressJet Airlines Inc.",BTV
+4,"ERJ 190-100 IGW","JetBlue Airways",BTV
+1,CL-600-2D24,"Endeavor Air Inc.",BUF
+1,CL-600-2C10,"ExpressJet Airlines Inc.",BUF
+2,EMB-145LR,"ExpressJet Airlines Inc.",BUF
+1,A320-232,"JetBlue Airways",BUF
+4,"ERJ 190-100 IGW","JetBlue Airways",BUF
+1,A320-232,"JetBlue Airways",BUR
+1,CL-600-2B19,"Endeavor Air Inc.",BWI
+1,NULL,"Envoy Air",BWI
+2,EMB-145LR,"ExpressJet Airlines Inc.",BWI
+1,CL-600-2B19,"Endeavor Air Inc.",CAE
+2,717-200,"AirTran Airways Corporation",CAK
+1,CL-600-2B19,"Endeavor Air Inc.",CHS
+2,CL-600-2C10,"ExpressJet Airlines Inc.",CHS
+3,EMB-145LR,"ExpressJet Airlines Inc.",CHS
+2,"ERJ 190-100 IGW","JetBlue Airways",CHS
+1,CL-600-2B19,"Endeavor Air Inc.",CLE
+4,NULL,"Envoy Air",CLE
+1,CL-600-2C10,"ExpressJet Airlines Inc.",CLE
+1,EMB-145XR,"ExpressJet Airlines Inc.",CLE
+1,737-724,"United Air Lines Inc.",CLE
+1,737-824,"United Air Lines Inc.",CLE
+1,CL-600-2D24,"Endeavor Air Inc.",CLT
+3,NULL,"Envoy Air",CLT
+1,CL-600-2C10,"ExpressJet Airlines Inc.",CLT
+2,EMB-145LR,"ExpressJet Airlines Inc.",CLT
+2,EMB-145XR,"ExpressJet Airlines Inc.",CLT
+2,"ERJ 190-100 IGW","JetBlue Airways",CLT
+1,CL-600-2D24,"Mesa Airlines Inc.",CLT
+0,NULL,"US Airways Inc.",CLT
+3,A319-112,"US Airways Inc.",CLT
+2,A320-214,"US Airways Inc.",CLT
+2,A320-232,"US Airways Inc.",CLT
+10,A321-211,"US Airways Inc.",CLT
+7,A321-231,"US Airways Inc.",CLT
+5,NULL,"Envoy Air",CMH
+1,EMB-145LR,"ExpressJet Airlines Inc.",CMH
+2,CL-600-2D24,"Endeavor Air Inc.",CVG
+1,NULL,"Envoy Air",CVG
+2,EMB-145LR,"ExpressJet Airlines Inc.",CVG
+2,EMB-145LR,"ExpressJet Airlines Inc.",DAY
+2,CL-600-2D24,"Endeavor Air Inc.",DCA
+5,NULL,"Envoy Air",DCA
+2,EMB-145LR,"ExpressJet Airlines Inc.",DCA
+2,"ERJ 190-100 IGW","US Airways Inc.",DCA
+1,737-832,"Delta Air Lines Inc.",DEN
+2,A320-211,"Delta Air Lines Inc.",DEN
+1,A320-214,"Frontier Airlines Inc.",DEN
+1,A320-232,"JetBlue Airways",DEN
+1,737-7BD,"Southwest Airlines Co.",DEN
+3,737-7H4,"Southwest Airlines Co.",DEN
+0,NULL,"United Air Lines Inc.",DEN
+2,737-824,"United Air Lines Inc.",DEN
+3,757-222,"United Air Lines Inc.",DEN
+1,757-224,"United Air Lines Inc.",DEN
+2,A320-232,"United Air Lines Inc.",DEN
+15,NULL,"American Airlines Inc.",DFW
+1,DC-9-82(MD-82),"American Airlines Inc.",DFW
+1,CL-600-2D24,"Endeavor Air Inc.",DFW
+1,A319-131,"United Air Lines Inc.",DFW
+1,717-200,"Delta Air Lines Inc.",DTW
+8,A319-114,"Delta Air Lines Inc.",DTW
+1,MD-88,"Delta Air Lines Inc.",DTW
+3,CL-600-2D24,"Endeavor Air Inc.",DTW
+5,NULL,"Envoy Air",DTW
+2,EMB-145XR,"ExpressJet Airlines Inc.",DTW
+1,NULL,"American Airlines Inc.",EGE
+0,NULL,"United Air Lines Inc.",EGE
+1,737-732,"Delta Air Lines Inc.",EYW
+2,737-832,"Delta Air Lines Inc.",FLL
+1,A319-114,"Delta Air Lines Inc.",FLL
+5,MD-88,"Delta Air Lines Inc.",FLL
+20,A320-232,"JetBlue Airways",FLL
+2,A321-231,"JetBlue Airways",FLL
+1,"ERJ 190-100 IGW","JetBlue Airways",FLL
+1,737-824,"United Air Lines Inc.",FLL
+2,737-924ER,"United Air Lines Inc.",FLL
+6,A320-232,"United Air Lines Inc.",FLL
+1,EMB-145LR,"ExpressJet Airlines Inc.",GRR
+2,EMB-145LR,"ExpressJet Airlines Inc.",GSO
+1,CL-600-2B19,"Endeavor Air Inc.",GSP
+1,EMB-145LR,"ExpressJet Airlines Inc.",GSP
+1,EMB-145XR,"ExpressJet Airlines Inc.",GSP
+1,A330-243,"Hawaiian Airlines Inc.",HNL
+1,767-424ER,"United Air Lines Inc.",HNL
+2,"ERJ 190-100 IGW","JetBlue Airways",HOU
+1,737-7BD,"Southwest Airlines Co.",HOU
+4,737-7H4,"Southwest Airlines Co.",HOU
+1,CL-600-2B19,"Endeavor Air Inc.",IAD
+2,CL-600-2B19,"ExpressJet Airlines Inc.",IAD
+1,EMB-145LR,"ExpressJet Airlines Inc.",IAD
+2,"ERJ 190-100 IGW","JetBlue Airways",IAD
+1,CL-600-2C10,"Mesa Airlines Inc.",IAD
+1,NULL,"American Airlines Inc.",IAH
+2,737-824,"United Air Lines Inc.",IAH
+2,737-924ER,"United Air Lines Inc.",IAH
+1,757-222,"United Air Lines Inc.",IAH
+1,757-224,"United Air Lines Inc.",IAH
+1,767-322,"United Air Lines Inc.",IAH
+1,767-424ER,"United Air Lines Inc.",IAH
+1,A319-131,"United Air Lines Inc.",IAH
+5,A320-232,"United Air Lines Inc.",IAH
+1,CL-600-2D24,"Endeavor Air Inc.",IND
+1,NULL,"Envoy Air",IND
+2,EMB-145LR,"ExpressJet Airlines Inc.",IND
+0,NULL,"United Air Lines Inc.",JAC
+1,EMB-145LR,"ExpressJet Airlines Inc.",JAX
+3,"ERJ 190-100 IGW","JetBlue Airways",JAX
+2,NULL,"American Airlines Inc.",LAS
+2,737-832,"Delta Air Lines Inc.",LAS
+1,757-232,"Delta Air Lines Inc.",LAS
+3,A320-232,"JetBlue Airways",LAS
+1,737-824,"United Air Lines Inc.",LAS
+1,757-222,"United Air Lines Inc.",LAS
+2,A320-232,"United Air Lines Inc.",LAS
+1,A320-214,"Virgin America",LAS
+1,NULL,"American Airlines Inc.",LAX
+7,767-223,"American Airlines Inc.",LAX
+1,757-231,"Delta Air Lines Inc.",LAX
+1,757-2Q8,"Delta Air Lines Inc.",LAX
+4,767-332,"Delta Air Lines Inc.",LAX
+5,A320-232,"JetBlue Airways",LAX
+0,NULL,"United Air Lines Inc.",LAX
+3,737-824,"United Air Lines Inc.",LAX
+1,737-924ER,"United Air Lines Inc.",LAX
+7,757-222,"United Air Lines Inc.",LAX
+2,757-224,"United Air Lines Inc.",LAX
+1,A319-131,"United Air Lines Inc.",LAX
+6,A320-214,"Virgin America",LAX
+2,A320-232,"JetBlue Airways",LGB
+3,EMB-145XR,"ExpressJet Airlines Inc.",MCI
+2,NULL,"American Airlines Inc.",MCO
+1,737-832,"Delta Air Lines Inc.",MCO
+3,A320-212,"Delta Air Lines Inc.",MCO
+6,MD-88,"Delta Air Lines Inc.",MCO
+19,A320-232,"JetBlue Airways",MCO
+1,"ERJ 190-100 IGW","JetBlue Airways",MCO
+1,737-724,"United Air Lines Inc.",MCO
+3,737-824,"United Air Lines Inc.",MCO
+1,757-222,"United Air Lines Inc.",MCO
+3,757-224,"United Air Lines Inc.",MCO
+1,A319-131,"United Air Lines Inc.",MCO
+1,A320-232,"United Air Lines Inc.",MCO
+7,737-7H4,"Southwest Airlines Co.",MDW
+2,737-8H4,"Southwest Airlines Co.",MDW
+1,CL-600-2C10,"ExpressJet Airlines Inc.",MEM
+2,EMB-145LR,"ExpressJet Airlines Inc.",MEM
+2,CL-600-2C10,"ExpressJet Airlines Inc.",MHT
+17,NULL,"American Airlines Inc.",MIA
+1,767-223,"American Airlines Inc.",MIA
+1,767-323,"American Airlines Inc.",MIA
+1,737-832,"Delta Air Lines Inc.",MIA
+2,A320-211,"Delta Air Lines Inc.",MIA
+5,MD-88,"Delta Air Lines Inc.",MIA
+1,737-724,"United Air Lines Inc.",MIA
+1,737-824,"United Air Lines Inc.",MIA
+1,A319-131,"United Air Lines Inc.",MIA
+2,A320-232,"United Air Lines Inc.",MIA
+1,EMB-145LR,"ExpressJet Airlines Inc.",MKE
+1,737-7H4,"Southwest Airlines Co.",MKE
+1,737-8H4,"Southwest Airlines Co.",MKE
+1,CL-600-2C10,"ExpressJet Airlines Inc.",MSN
+1,EMB-145LR,"ExpressJet Airlines Inc.",MSN
+2,A319-114,"Delta Air Lines Inc.",MSP
+2,A320-211,"Delta Air Lines Inc.",MSP
+3,MD-88,"Delta Air Lines Inc.",MSP
+5,CL-600-2D24,"Endeavor Air Inc.",MSP
+2,NULL,"Envoy Air",MSP
+1,EMB-145XR,"ExpressJet Airlines Inc.",MSP
+2,A319-114,"Delta Air Lines Inc.",MSY
+1,CL-600-2D24,"Endeavor Air Inc.",MSY
+1,EMB-145XR,"ExpressJet Airlines Inc.",MSY
+3,"ERJ 190-100 IGW","JetBlue Airways",MSY
+1,737-7H4,"Southwest Airlines Co.",MSY
+1,A320-232,"JetBlue Airways",OAK
+1,EMB-145XR,"ExpressJet Airlines Inc.",OMA
+8,NULL,"American Airlines Inc.",ORD
+1,550,"American Airlines Inc.",ORD
+3,DC-9-82(MD-82),"American Airlines Inc.",ORD
+1,DC-9-83(MD-83),"American Airlines Inc.",ORD
+2,CL-600-2D24,"Endeavor Air Inc.",ORD
+3,NULL,"Envoy Air",ORD
+1,A320-232,"JetBlue Airways",ORD
+1,"ERJ 190-100 IGW","JetBlue Airways",ORD
+0,NULL,"United Air Lines Inc.",ORD
+2,737-724,"United Air Lines Inc.",ORD
+1,737-824,"United Air Lines Inc.",ORD
+1,757-224,"United Air Lines Inc.",ORD
+1,A319-131,"United Air Lines Inc.",ORD
+1,A320-232,"United Air Lines Inc.",ORD
+1,CL-600-2B19,"Endeavor Air Inc.",ORF
+1,NULL,"Envoy Air",ORF
+2,CL-600-2C10,"ExpressJet Airlines Inc.",ORF
+2,NULL,"American Airlines Inc.",PBI
+1,A319-114,"Delta Air Lines Inc.",PBI
+1,A320-212,"Delta Air Lines Inc.",PBI
+3,MD-88,"Delta Air Lines Inc.",PBI
+11,A320-232,"JetBlue Airways",PBI
+2,"ERJ 190-100 IGW","JetBlue Airways",PBI
+1,SR22,"JetBlue Airways",PBI
+1,737-724,"United Air Lines Inc.",PBI
+3,737-824,"United Air Lines Inc.",PBI
+1,757-222,"United Air Lines Inc.",PBI
+1,A319-131,"United Air Lines Inc.",PBI
+2,A320-232,"United Air Lines Inc.",PBI
+1,737-832,"Delta Air Lines Inc.",PDX
+1,A320-232,"JetBlue Airways",PDX
+1,A320-232,"United Air Lines Inc.",PDX
+2,"ERJ 190-100 IGW","US Airways Inc.",PHL
+1,737-832,"Delta Air Lines Inc.",PHX
+1,NULL,"JetBlue Airways",PHX
+1,737-7H4,"Southwest Airlines Co.",PHX
+1,737-824,"United Air Lines Inc.",PHX
+1,737-924ER,"United Air Lines Inc.",PHX
+1,A319-131,"United Air Lines Inc.",PHX
+5,A320-232,"US Airways Inc.",PHX
+1,A321-211,"US Airways Inc.",PHX
+2,A321-231,"US Airways Inc.",PHX
+2,CL-600-2D24,"Endeavor Air Inc.",PIT
+1,NULL,"Envoy Air",PIT
+1,A320-232,"JetBlue Airways",PSE
+1,EMB-145XR,"ExpressJet Airlines Inc.",PVD
+1,CL-600-2D24,"ExpressJet Airlines Inc.",PWM
+2,EMB-145LR,"ExpressJet Airlines Inc.",PWM
+3,"ERJ 190-100 IGW","JetBlue Airways",PWM
+1,CL-600-2D24,"Endeavor Air Inc.",RDU
+11,NULL,"Envoy Air",RDU
+2,EMB-145LR,"ExpressJet Airlines Inc.",RDU
+3,"ERJ 190-100 IGW","JetBlue Airways",RDU
+1,CL-600-2B19,"Endeavor Air Inc.",RIC
+1,CL-600-2C10,"ExpressJet Airlines Inc.",RIC
+1,EMB-145LR,"ExpressJet Airlines Inc.",RIC
+3,EMB-145XR,"ExpressJet Airlines Inc.",RIC
+1,CL-600-2B19,"Endeavor Air Inc.",ROC
+1,EMB-145XR,"ExpressJet Airlines Inc.",ROC
+1,A320-232,"JetBlue Airways",ROC
+2,"ERJ 190-100 IGW","JetBlue Airways",ROC
+3,MD-88,"Delta Air Lines Inc.",RSW
+5,A320-232,"JetBlue Airways",RSW
+2,"ERJ 190-100 IGW","JetBlue Airways",RSW
+1,A319-131,"United Air Lines Inc.",RSW
+3,A320-232,"United Air Lines Inc.",RSW
+1,NULL,"American Airlines Inc.",SAN
+1,737-832,"Delta Air Lines Inc.",SAN
+2,A320-232,"JetBlue Airways",SAN
+1,737-724,"United Air Lines Inc.",SAN
+1,737-924ER,"United Air Lines Inc.",SAN
+1,757-222,"United Air Lines Inc.",SAN
+1,A320-232,"United Air Lines Inc.",SAT
+1,EMB-145LR,"ExpressJet Airlines Inc.",SAV
+1,EMB-145LR,"ExpressJet Airlines Inc.",SDF
+2,737-990ER,"Alaska Airlines Inc.",SEA
+1,NULL,"American Airlines Inc.",SEA
+1,757-231,"Delta Air Lines Inc.",SEA
+2,757-2Q8,"Delta Air Lines Inc.",SEA
+1,A320-232,"JetBlue Airways",SEA
+0,NULL,"United Air Lines Inc.",SEA
+1,737-824,"United Air Lines Inc.",SEA
+1,A320-232,"United Air Lines Inc.",SEA
+1,230,"American Airlines Inc.",SFO
+1,767-223,"American Airlines Inc.",SFO
+1,767-323,"American Airlines Inc.",SFO
+2,757-231,"Delta Air Lines Inc.",SFO
+3,757-2Q8,"Delta Air Lines Inc.",SFO
+3,A320-232,"JetBlue Airways",SFO
+2,737-724,"United Air Lines Inc.",SFO
+4,737-824,"United Air Lines Inc.",SFO
+4,737-924ER,"United Air Lines Inc.",SFO
+5,757-222,"United Air Lines Inc.",SFO
+1,A319-131,"United Air Lines Inc.",SFO
+6,A320-214,"Virgin America",SFO
+1,A320-232,"JetBlue Airways",SJC
+2,NULL,"American Airlines Inc.",SJU
+1,757-223,"American Airlines Inc.",SJU
+4,737-832,"Delta Air Lines Inc.",SJU
+1,757-2Q8,"Delta Air Lines Inc.",SJU
+8,A320-232,"JetBlue Airways",SJU
+2,A321-231,"JetBlue Airways",SJU
+1,737-724,"United Air Lines Inc.",SJU
+1,737-824,"United Air Lines Inc.",SJU
+1,737-924ER,"United Air Lines Inc.",SJU
+1,737-832,"Delta Air Lines Inc.",SLC
+1,757-232,"Delta Air Lines Inc.",SLC
+3,757-2Q8,"Delta Air Lines Inc.",SLC
+1,A320-212,"Delta Air Lines Inc.",SLC
+1,A320-232,"JetBlue Airways",SLC
+1,A320-232,"JetBlue Airways",SMF
+1,737-724,"United Air Lines Inc.",SNA
+1,MD-88,"Delta Air Lines Inc.",SRQ
+2,A320-232,"JetBlue Airways",SRQ
+2,NULL,"Envoy Air",STL
+2,EMB-145LR,"ExpressJet Airlines Inc.",STL
+1,737-3H4,"Southwest Airlines Co.",STL
+2,737-7H4,"Southwest Airlines Co.",STL
+1,NULL,"American Airlines Inc.",STT
+1,757-2Q8,"Delta Air Lines Inc.",STT
+1,737-724,"United Air Lines Inc.",STT
+1,CL-600-2C10,"ExpressJet Airlines Inc.",SYR
+3,"ERJ 190-100 IGW","JetBlue Airways",SYR
+1,A320-212,"Delta Air Lines Inc.",TPA
+4,MD-88,"Delta Air Lines Inc.",TPA
+2,NULL,"Envoy Air",TPA
+8,A320-232,"JetBlue Airways",TPA
+1,737-724,"United Air Lines Inc.",TPA
+4,737-824,"United Air Lines Inc.",TPA
+1,757-222,"United Air Lines Inc.",TPA
+2,A320-232,"United Air Lines Inc.",TPA
+1,EMB-145XR,"ExpressJet Airlines Inc.",TYS
+1,NULL,"Envoy Air",XNA
+1,EMB-145XR,"ExpressJet Airlines Inc.",XNA
